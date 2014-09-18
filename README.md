@@ -6,6 +6,8 @@
 <i>Lecturer</i>: <a href="mailto:profjsb@gmail.com">Josh Bloom</a> (UC Berkeley; Wise.io, Inc.)
 
 
+Lecture Slides (PDF) <a href="https://drive.google.com/file/d/0B4vIeCR-xYNnUzlxZzZ4ZjdibW8/edit?usp=sharing">here</a>
+
 View the IPython notebook <a href="http://nbviewer.ipython.org/github/AstroHackWeek/day4/blob/master/machine-learning-on-SDSS.ipynb">here</a>
 
 
